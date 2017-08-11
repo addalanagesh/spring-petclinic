@@ -228,7 +228,7 @@
     <repository>
       <id>internal.repo</id>
       <name>MyCo Internal Repository</name>
-      <url>Host to Company Repository</url>
+      <url>https://github.com/addalanagesh/spring-petclinic</url>
     </repository>
   </distributionManagement>
 </project>
